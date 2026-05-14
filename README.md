@@ -1,4 +1,15 @@
-<div align="center">
+# AgentOS Fork (Learning & Exploration)
+
+This is a fork of the original AgentOS repository.
+
+## Purpose
+- Understanding AI agent architecture
+- Studying tool execution flow
+- Exploring multi-agent design patterns
+- Learning memory and orchestration systems
+
+## Status
+Educational exploration and system analysis only.<div align="center">
 
 <a href="https://agentos.sh">
   <img src="https://raw.githubusercontent.com/framersai/agentos/master/assets/agentos-primary-no-tagline-transparent-2x.png" alt="AgentOS — TypeScript AI Agent Framework with Cognitive Memory" height="100" />
